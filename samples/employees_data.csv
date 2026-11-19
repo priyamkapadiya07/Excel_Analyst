@@ -1,0 +1,8 @@
+Emp_ID,Full_Name,Department,Salary,Hire_Date,Performance_Rating,Remote
+EMP-001,Alice Johnson,Engineering,95000.0,2023-03-15,4.5,True
+EMP-002,Bob Smith,engineering,88000.0,2022-07-01,3.8,True
+EMP-003,Charlie Brown ,HR,62000.0,2024-01-10,4.0,False
+EMP-004,Diana Prince,Finance,105000.0,2021-11-20,4.9,False
+EMP-005,Evan Wright,Sales,,2025-05-04,3.2,True
+EMP-006,Fiona Gallagher,Engineering,92000.0,2023-09-12,4.1,False
+EMP-007,George Clark,Marketing,71000.0,invalid-date,,True
